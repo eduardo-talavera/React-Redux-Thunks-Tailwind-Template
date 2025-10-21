@@ -1,4 +1,4 @@
-## React, React Router Dom, Redux, Vitest, Testing Library, Typescript, Tailwind Workflow
+## React, React Router Dom, Redux, Redux Thunks, Vitest, Testing Library, Typescript, Tailwind Workflow
 
 <br>
 
